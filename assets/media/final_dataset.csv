@@ -1,0 +1,627 @@
+10th,12th,entrance,interest ,career
+99,99,99,coding,Engineering
+99,98,99,current affairs,UPSC
+99,97,99,healthcare,Doctor
+99,96,99,law,Lawyer
+99,95,99,modelling,Fashion Designer
+99,94,99,coding,Engineering
+99,93,99,healthcare,Doctor
+99,92,99,current affairs,UPSC
+99,91,99,modelling,Fashion Designer
+99,90,99,law,Lawyer
+99,89,99,coding,Engineering
+99,88,99,current affairs,UPSC
+99,87,99,healthcare,Doctor
+99,86,99,modelling,Fashion Designer
+99,85,99,law,Lawyer
+99,84,99,current affairs,UPSC
+99,83,99,coding,Engineering
+99,82,99,healthcare,Doctor
+99,81,99,modelling,Fashion Designer
+99,80,99,law,Lawyer
+98,99,99,current affairs,UPSC
+98,98,99,healthcare,Doctor
+98,97,99,coding,Engineering
+98,96,99,modelling,Fashion Designer
+98,95,99,law,Lawyer
+98,94,99,current affairs,UPSC
+98,93,99,modelling,Fashion Designer
+98,92,99,law,Lawyer
+98,91,99,coding,Engineering
+98,90,99,coding,Engineering
+98,89,98,current affairs,UPSC
+98,88,98,healthcare,Doctor
+98,87,98,law,Lawyer
+98,86,98,healthcare,Doctor
+98,85,98,modelling,Fashion Designer
+98,84,98,healthcare,Doctor
+98,83,98,coding,Engineering
+98,82,98,law,Lawyer
+98,81,98,current affairs,UPSC
+98,80,98,coding,Engineering
+97,99,97,modelling,Fashion Designer
+97,98,97,healthcare,Doctor
+97,97,97,law,Lawyer
+97,96,97,modelling,Fashion Designer
+97,95,97,healthcare,Doctor
+97,94,97,coding,Engineering
+97,93,97,current affairs,UPSC
+97,92,97,current affairs,UPSC
+97,91,97,law,Lawyer
+97,90,97,coding,Engineering
+97,89,97,modelling,Fashion Designer
+97,88,97,healthcare,Doctor
+97,87,97,coding,Engineering
+97,86,97,coding,Engineering
+97,85,97,law,Lawyer
+97,84,97,law,Lawyer
+97,83,97,healthcare,Doctor
+97,82,97,modelling,Fashion Designer
+97,81,97,current affairs,UPSC
+97,80,97,coding,Engineering
+96,99,96,law,Lawyer
+96,98,96,coding,Engineering
+96,97,96,coding,Engineering
+96,96,96,modelling,Fashion Designer
+96,95,96,current affairs,UPSC
+96,94,96,healthcare,Doctor
+96,93,96,law,Lawyer
+96,92,96,law,Lawyer
+96,91,96,healthcare,Doctor
+96,90,96,coding,Engineering
+96,89,96,law,Lawyer
+96,88,96,healthcare,Doctor
+96,87,96,coding,Engineering
+96,86,96,modelling,Fashion Designer
+96,85,96,current affairs,UPSC
+96,84,96,law,Lawyer
+96,83,96,coding,Engineering
+96,82,96,healthcare,Doctor
+96,81,96,healthcare,Doctor
+96,80,96,current affairs,UPSC
+95,99,95,current affairs,UPSC
+95,98,95,coding,Engineering
+95,97,95,coding,Engineering
+95,96,95,modelling,Fashion Designer
+95,95,95,law,Lawyer
+95,94,95,healthcare,Doctor
+95,93,95,coding,Engineering
+95,92,95,coding,Engineering
+95,91,95,healthcare,Doctor
+95,90,95,healthcare,Doctor
+95,89,95,healthcare,Doctor
+95,88,95,coding,Engineering
+95,87,95,law,Lawyer
+95,86,95,modelling,Fashion Designer
+95,85,95,healthcare,Doctor
+95,84,95,modelling,Fashion Designer
+95,83,95,law,Lawyer
+95,82,95,current affairs,UPSC
+95,81,95,law,Lawyer
+95,80,95,current affairs,UPSC
+94,99,94,coding,Engineering
+94,98,94,healthcare,Doctor
+94,97,94,current affairs,UPSC
+94,96,94,healthcare,Doctor
+94,95,94,coding,Engineering
+94,94,94,modelling,Fashion Designer
+94,93,94,law,Lawyer
+94,92,94,coding,Engineering
+94,91,94,current affairs,UPSC
+94,90,94,healthcare,Doctor
+94,89,94,healthcare,Doctor
+94,88,94,law,Lawyer
+94,87,94,modelling,Fashion Designer
+94,86,94,coding,Engineering
+94,85,94,coding,Engineering
+94,84,94,coding,Engineering
+94,83,94,law,Lawyer
+94,82,94,healthcare,Doctor
+94,81,94,modelling,Fashion Designer
+94,80,94,modelling,Fashion Designer
+93,99,93,healthcare,Doctor
+93,98,93,coding,Engineering
+93,97,93,current affairs,UPSC
+93,96,93,coding,Engineering
+93,95,93,modelling,Fashion Designer
+93,94,93,law,Lawyer
+93,93,93,healthcare,Doctor
+93,92,93,coding,Engineering
+93,91,93,coding,Engineering
+93,90,93,modelling,Fashion Designer
+93,89,93,healthcare,Doctor
+93,88,93,healthcare,Doctor
+93,87,93,law,Lawyer
+93,86,93,coding,Engineering
+93,85,93,modelling,Fashion Designer
+93,84,93,law,Lawyer
+93,83,93,current affairs,UPSC
+93,82,93,law,Lawyer
+93,81,93,coding,Engineering
+93,80,93,current affairs,UPSC
+92,99,92,law,Lawyer
+92,98,92,modelling,Fashion Designer
+92,97,92,law,Lawyer
+92,96,92,healthcare,Doctor
+92,95,92,healthcare,Doctor
+92,94,92,current affairs,UPSC
+92,93,92,coding,Engineering
+92,92,92,healthcare,Doctor
+92,91,92,law,Lawyer
+92,90,92,coding,Engineering
+92,89,92,coding,Engineering
+92,88,92,law,Lawyer
+92,87,92,healthcare,Doctor
+92,86,92,modelling,Fashion Designer
+92,85,92,current affairs,UPSC
+92,84,92,law,Lawyer
+92,83,92,current affairs,UPSC
+92,82,92,coding,Engineering
+92,81,92,law,Lawyer
+92,80,92,modelling,Fashion Designer
+91,99,91,law,Lawyer
+91,98,91,coding,Engineering
+91,97,91,modelling,Fashion Designer
+91,96,91,current affairs,UPSC
+91,95,91,healthcare,Doctor
+91,94,91,law,Lawyer
+91,93,91,modelling,Fashion Designer
+91,92,91,healthcare,Doctor
+91,91,91,current affairs,UPSC
+91,90,91,coding,Engineering
+91,89,91,modelling,Fashion Designer
+91,88,91,healthcare,Doctor
+91,87,91,current affairs,UPSC
+91,86,91,modelling,Fashion Designer
+91,85,91,law,Lawyer
+91,84,91,law,Lawyer
+91,83,91,coding,Engineering
+91,82,91,coding,Engineering
+91,81,91,modelling,Fashion Designer
+91,80,91,law,Lawyer
+90,99,90,current affairs,UPSC
+90,98,90,healthcare,Doctor
+90,97,90,healthcare,Doctor
+90,96,90,law,Lawyer
+90,95,90,modelling,Fashion Designer
+90,94,90,modelling,Fashion Designer
+90,93,90,law,Lawyer
+90,92,90,coding,Engineering
+90,91,90,current affairs,UPSC
+90,90,90,modelling,Fashion Designer
+90,89,90,law,Lawyer
+90,88,90,law,Lawyer
+90,87,90,coding,Engineering
+90,86,90,current affairs,UPSC
+90,85,90,healthcare,Doctor
+90,84,90,healthcare,Doctor
+90,83,90,law,Lawyer
+90,82,90,coding,Engineering
+90,81,90,current affairs,UPSC
+90,80,90,current affairs,UPSC
+89,96,89,law,Lawyer
+89,95,89,modelling,Fashion Designer
+89,94,89,law,Lawyer
+89,93,89,modelling,Fashion Designer
+89,92,89,law,Lawyer
+89,91,89,current affairs,UPSC
+89,90,89,healthcare,Doctor
+89,89,89,law,Lawyer
+89,88,89,healthcare,Doctor
+89,87,89,coding,Engineering
+89,86,89,coding,Engineering
+89,85,89,healthcare,Doctor
+89,84,89,modelling,Fashion Designer
+89,83,89,law,Lawyer
+89,82,89,current affairs,UPSC
+89,81,89,current affairs,UPSC
+89,80,89,modelling,Fashion Designer
+88,96,88,law,Lawyer
+88,95,88,modelling,Fashion Designer
+88,94,88,healthcare,Doctor
+88,93,88,coding,Engineering
+88,92,88,coding,Engineering
+88,91,88,coding,Engineering
+88,90,88,healthcare,Doctor
+88,89,88,current affairs,UPSC
+88,88,88,law,Lawyer
+88,87,88,modelling,Fashion Designer
+88,86,88,law,Lawyer
+88,85,88,modelling,Fashion Designer
+88,84,88,healthcare,Doctor
+88,83,88,coding,Engineering
+88,82,88,current affairs,UPSC
+88,81,88,current affairs,UPSC
+88,80,88,coding,Engineering
+87,96,87,healthcare,Doctor
+87,95,87,law,Lawyer
+87,94,87,modelling,Fashion Designer
+87,93,87,coding,Engineering
+87,92,87,healthcare,Doctor
+87,91,87,coding,Engineering
+87,90,87,healthcare,Doctor
+87,89,87,coding,Engineering
+87,88,87,healthcare,Doctor
+87,87,87,law,Lawyer
+87,86,87,modelling,Fashion Designer
+87,85,87,healthcare,Doctor
+87,84,87,current affairs,UPSC
+87,83,87,law,Lawyer
+87,82,87,modelling,Fashion Designer
+87,81,87,current affairs,UPSC
+87,80,87,law,Lawyer
+86,96,86,coding,Engineering
+86,95,86,coding,Engineering
+86,94,86,modelling,Fashion Designer
+86,93,86,law,Lawyer
+86,92,86,current affairs,UPSC
+86,91,86,modelling,Fashion Designer
+86,90,86,healthcare,Doctor
+86,89,86,healthcare,Doctor
+86,88,86,healthcare,Doctor
+86,87,86,healthcare,Doctor
+86,86,86,law,Lawyer
+86,85,86,coding,Engineering
+86,84,86,current affairs,UPSC
+86,83,86,current affairs,UPSC
+86,82,86,coding,Engineering
+86,81,86,law,Lawyer
+86,80,86,modelling,Fashion Designer
+85,96,85,law,Lawyer
+85,95,85,coding,Engineering
+85,94,85,current affairs,UPSC
+85,93,85,modelling,Fashion Designer
+85,92,85,healthcare,Doctor
+85,91,85,healthcare,Doctor
+85,90,85,current affairs,UPSC
+85,89,85,coding,Engineering
+85,88,85,modelling,Fashion Designer
+85,87,85,law,Lawyer
+85,86,85,current affairs,UPSC
+85,85,85,coding,Engineering
+85,84,85,modelling,Fashion Designer
+85,83,85,healthcare,Doctor
+85,82,85,healthcare,Doctor
+85,81,85,law,Lawyer
+85,80,85,law,Lawyer
+84,96,84,coding,Engineering
+84,95,84,current affairs,UPSC
+84,94,84,healthcare,Doctor
+84,93,84,law,Lawyer
+84,92,84,modelling,Fashion Designer
+84,91,84,law,Lawyer
+84,90,84,law,Lawyer
+84,89,84,modelling,Fashion Designer
+84,88,84,healthcare,Doctor
+84,87,84,current affairs,UPSC
+84,86,84,current affairs,UPSC
+84,85,84,coding,Engineering
+84,84,84,law,Lawyer
+84,83,84,healthcare,Doctor
+84,82,84,healthcare,Doctor
+84,81,84,coding,Engineering
+84,80,84,coding,Engineering
+83,96,83,law,Lawyer
+83,95,83,modelling,Fashion Designer
+83,94,83,current affairs,UPSC
+83,93,83,law,Lawyer
+83,92,83,law,Lawyer
+83,91,83,modelling,Fashion Designer
+83,90,83,healthcare,Doctor
+83,89,83,law,Lawyer
+83,88,83,healthcare,Doctor
+83,87,83,law,Lawyer
+83,86,83,healthcare,Doctor
+83,85,83,modelling,Fashion Designer
+83,84,83,coding,Engineering
+83,83,83,current affairs,UPSC
+83,82,83,law,Lawyer
+83,81,83,coding,Engineering
+83,80,83,law,Lawyer
+82,96,82,current affairs,UPSC
+82,95,82,modelling,Fashion Designer
+82,94,82,current affairs,UPSC
+82,93,82,coding,Engineering
+82,92,82,healthcare,Doctor
+82,91,82,coding,Engineering
+82,90,82,healthcare,Doctor
+82,89,82,coding,Engineering
+82,88,82,current affairs,UPSC
+82,87,82,law,Lawyer
+82,86,82,modelling,Fashion Designer
+82,85,82,law,Lawyer
+82,84,82,healthcare,Doctor
+82,83,82,coding,Engineering
+82,82,82,current affairs,UPSC
+82,81,82,healthcare,Doctor
+82,80,82,law,Lawyer
+81,96,81,modelling,Fashion Designer
+81,95,81,healthcare,Doctor
+81,94,81,current affairs,UPSC
+81,93,81,healthcare,Doctor
+81,92,81,coding,Engineering
+81,91,81,law,Lawyer
+81,90,81,current affairs,UPSC
+81,89,81,current affairs,UPSC
+81,88,81,law,Lawyer
+81,87,81,modelling,Fashion Designer
+81,86,81,current affairs,UPSC
+81,85,81,law,Lawyer
+81,84,81,healthcare,Doctor
+81,83,81,healthcare,Doctor
+81,82,81,law,Lawyer
+81,81,81,modelling,Fashion Designer
+81,80,81,current affairs,UPSC
+80,96,80,coding,Engineering
+80,95,80,coding,Engineering
+80,94,80,current affairs,UPSC
+80,93,80,law,Lawyer
+80,92,80,modelling,Fashion Designer
+80,91,80,current affairs,UPSC
+80,90,80,modelling,Fashion Designer
+80,89,80,coding,Engineering
+80,88,80,healthcare,Doctor
+80,87,80,law,Lawyer
+80,86,80,modelling,Fashion Designer
+80,85,80,coding,Engineering
+80,84,80,current affairs,UPSC
+80,83,80,healthcare,Doctor
+80,82,80,law,Lawyer
+80,81,80,modelling,Fashion Designer
+80,80,80,coding,Engineering
+79,85,79,current affairs,UPSC
+79,84,79,healthcare,Doctor
+79,83,79,law,Lawyer
+79,82,79,modelling,Fashion Designer
+79,81,79,law,Lawyer
+79,80,79,healthcare,Doctor
+79,79,79,current affairs,UPSC
+79,78,79,current affairs,UPSC
+79,76,79,modelling,Fashion Designer
+79,75,79,coding,Engineering
+79,74,79,coding,Engineering
+79,73,79,current affairs,UPSC
+79,72,79,law,Lawyer
+79,71,79,law,Lawyer
+79,70,79,modelling,Fashion Designer
+78,85,78,current affairs,UPSC
+78,84,78,modelling,Fashion Designer
+78,83,78,current affairs,UPSC
+78,82,78,coding,Engineering
+78,81,78,healthcare,Doctor
+78,80,78,modelling,Fashion Designer
+78,79,78,healthcare,Doctor
+78,78,78,law,Lawyer
+78,77,78,healthcare,Doctor
+78,76,78,coding,Engineering
+78,75,78,current affairs,UPSC
+78,74,78,coding,Engineering
+78,73,78,current affairs,UPSC
+78,72,78,healthcare,Doctor
+78,71,78,coding,Engineering
+78,70,78,healthcare,Doctor
+77,85,77,coding,Engineering
+77,84,77,current affairs,UPSC
+77,83,77,law,Lawyer
+77,82,77,modelling,Fashion Designer
+77,81,77,modelling,Fashion Designer
+77,80,77,law,Lawyer
+77,79,77,current affairs,UPSC
+77,78,77,coding,Engineering
+77,77,77,healthcare,Doctor
+77,76,77,healthcare,Doctor
+77,75,77,modelling,Fashion Designer
+77,74,77,healthcare,Doctor
+77,73,77,coding,Engineering
+77,72,77,current affairs,UPSC
+77,71,77,healthcare,Doctor
+77,70,77,modelling,Fashion Designer
+76,85,76,law,Lawyer
+76,84,76,modelling,Fashion Designer
+76,83,76,current affairs,UPSC
+76,82,76,current affairs,UPSC
+76,81,76,coding,Engineering
+76,80,76,law,Lawyer
+76,79,76,healthcare,Doctor
+76,78,76,healthcare,Doctor
+76,77,76,healthcare,Doctor
+76,76,76,coding,Engineering
+76,75,76,current affairs,UPSC
+76,74,76,current affairs,UPSC
+76,73,76,coding,Engineering
+76,72,76,modelling,Fashion Designer
+76,71,76,healthcare,Doctor
+76,70,76,modelling,Fashion Designer
+75,85,75,law,Lawyer
+75,84,75,law,Lawyer
+75,83,75,coding,Engineering
+75,82,75,current affairs,UPSC
+75,81,75,modelling,Fashion Designer
+75,80,75,coding,Engineering
+75,79,75,current affairs,UPSC
+75,78,75,healthcare,Doctor
+75,77,75,current affairs,UPSC
+75,76,75,law,Lawyer
+75,75,75,law,Lawyer
+75,74,75,modelling,Fashion Designer
+75,73,75,current affairs,UPSC
+75,72,75,coding,Engineering
+75,71,75,healthcare,Doctor
+75,70,75,coding,Engineering
+74,85,74,healthcare,Doctor
+74,84,74,coding,Engineering
+74,83,74,current affairs,UPSC
+74,82,74,healthcare,Doctor
+74,81,74,coding,Engineering
+74,80,74,law,Lawyer
+74,79,74,modelling,Fashion Designer
+74,78,74,coding,Engineering
+74,77,74,current affairs,UPSC
+74,76,74,healthcare,Doctor
+74,75,74,current affairs,UPSC
+74,74,74,coding,Engineering
+74,73,74,current affairs,UPSC
+74,72,74,law,Lawyer
+74,71,74,modelling,Fashion Designer
+74,70,74,healthcare,Doctor
+73,85,73,healthcare,Doctor
+73,84,73,modelling,Fashion Designer
+73,83,73,law,Lawyer
+73,82,73,law,Lawyer
+73,81,73,law,Lawyer
+73,80,73,modelling,Fashion Designer
+73,79,73,coding,Engineering
+73,78,73,current affairs,UPSC
+73,77,73,healthcare,Doctor
+73,76,73,healthcare,Doctor
+73,75,73,current affairs,UPSC
+73,74,73,coding,Engineering
+73,73,73,modelling,Fashion Designer
+73,72,73,law,Lawyer
+73,71,73,current affairs,UPSC
+73,70,73,coding,Engineering
+72,85,72,current affairs,UPSC
+72,84,72,coding,Engineering
+72,83,72,law,Lawyer
+72,82,72,modelling,Fashion Designer
+72,81,72,law,Lawyer
+72,80,72,current affairs,UPSC
+72,79,72,modelling,Fashion Designer
+72,78,72,healthcare,Doctor
+72,77,72,healthcare,Doctor
+72,76,72,coding,Engineering
+72,75,72,current affairs,UPSC
+72,74,72,current affairs,UPSC
+72,73,72,coding,Engineering
+72,72,72,modelling,Fashion Designer
+72,71,72,law,Lawyer
+72,70,72,healthcare,Doctor
+71,85,71,current affairs,UPSC
+71,84,71,coding,Engineering
+71,83,71,law,Lawyer
+71,82,71,healthcare,Doctor
+71,81,71,coding,Engineering
+71,80,71,current affairs,UPSC
+71,79,71,coding,Engineering
+71,78,71,healthcare,Doctor
+71,77,71,law,Lawyer
+71,76,71,coding,Engineering
+71,75,71,law,Lawyer
+71,74,71,healthcare,Doctor
+71,73,71,law,Lawyer
+71,72,71,coding,Engineering
+71,71,71,current affairs,UPSC
+71,70,71,modelling,Fashion Designer
+70,85,70,coding,Engineering
+70,84,70,current affairs,UPSC
+70,83,70,healthcare,Doctor
+70,82,70,healthcare,Doctor
+70,81,70,law,Lawyer
+70,80,70,current affairs,UPSC
+70,79,70,coding,Engineering
+70,78,70,healthcare,Doctor
+70,77,70,coding,Engineering
+70,76,70,coding,Engineering
+70,75,70,healthcare,Doctor
+70,74,70,law,Lawyer
+70,73,70,modelling,Fashion Designer
+70,72,70,modelling,Fashion Designer
+70,71,70,law,Lawyer
+70,70,70,coding,Engineering
+69,75,69,current affairs,UPSC
+69,74,69,current affairs,UPSC
+69,73,69,coding,Engineering
+69,72,69,law,Lawyer
+69,71,69,law,Lawyer
+69,70,69,healthcare,Doctor
+69,69,69,modelling,Fashion Designer
+69,68,69,law,Lawyer
+69,67,69,coding,Engineering
+69,66,69,current affairs,UPSC
+69,65,69,healthcare,Doctor
+69,64,69,coding,Engineering
+69,63,69,current affairs,UPSC
+69,62,69,modelling,Fashion Designer
+69,61,69,law,Lawyer
+69,60,69,healthcare,Doctor
+68,75,68,current affairs,UPSC
+68,74,68,healthcare,UPSC
+68,73,68,law,Lawyer
+68,72,68,coding,Engineering
+68,71,68,coding,Engineering
+68,70,68,healthcare,Doctor
+68,69,68,law,Lawyer
+68,68,68,modelling,Fashion Designer
+68,67,68,law,Lawyer
+68,66,68,coding,Engineering
+68,65,68,current affairs,UPSC
+68,64,68,law,Lawyer
+68,63,68,healthcare,Doctor
+68,62,68,healthcare,Doctor
+68,61,68,modelling,Fashion Designer
+68,60,68,current affairs,UPSC
+67,75,67,healthcare,Doctor
+67,74,67,coding,Engineering
+67,73,67,current affairs,UPSC
+67,72,67,current affairs,UPSC
+67,71,67,coding,Engineering
+67,70,67,law,Lawyer
+67,69,67,healthcare,Doctor
+67,68,67,modelling,Fashion Designer
+67,67,67,law,Lawyer
+67,66,67,healthcare,Doctor
+67,65,67,coding,Engineering
+67,64,67,current affairs,UPSC
+67,63,67,coding,Engineering
+67,62,67,law,Lawyer
+67,61,67,modelling,Fashion Designer
+67,60,67,healthcare,Doctor
+66,75,66,current affairs,UPSC
+66,74,66,healthcare,Doctor
+66,73,66,current affairs,UPSC
+66,72,66,coding,Engineering
+66,71,66,law,Lawyer
+66,70,66,law,Lawyer
+66,69,66,modelling,Fashion Designer
+66,68,66,coding,Engineering
+66,67,66,law,Lawyer
+66,66,66,healthcare,Doctor
+66,65,66,healthcare,Doctor
+66,64,66,law,Lawyer
+66,63,66,coding,Engineering
+66,62,66,current affairs,UPSC
+66,61,66,current affairs,UPSC
+66,60,66,coding,Engineering
+65,75,65,healthcare,Doctor
+65,74,65,law,Lawyer
+65,73,65,modelling,Fashion Designer
+65,72,65,healthcare,Doctor
+65,71,65,coding,Engineering
+65,70,65,current affairs,UPSC
+65,69,65,coding,Engineering
+65,68,65,current affairs,UPSC
+65,67,65,coding,Engineering
+65,66,65,law,Lawyer
+65,65,65,healthcare,Doctor
+65,64,65,modelling,Fashion Designer
+65,63,65,law,Lawyer
+65,62,65,healthcare,Doctor
+65,61,65,coding,Engineering
+65,60,65,current affairs,UPSC
+64,75,64,coding,Engineering
+64,74,64,coding,Engineering
+64,73,64,coding,Engineering
+64,72,64,current affairs,UPSC
+64,71,64,healthcare,Doctor
+64,70,64,law,Lawyer
+64,69,64,healthcare,Doctor
+64,68,64,healthcare,Doctor
+64,67,64,law,Lawyer
+64,66,64,modelling,Fashion Designer
+64,65,64,current affairs,UPSC
+64,64,64,modelling,Fashion Designer
+64,63,64,coding,Engineering
+64,62,64,current affairs,UPSC
+64,61,64,healthcare,Doctor
+64,60,64,modelling,Fashion Designer
+63,60,64,coding,Engineering

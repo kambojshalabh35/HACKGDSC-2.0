@@ -1,0 +1,64 @@
+{% extends 'base.html' %}{% block body %}
+<section id="breadcrumbs" class="breadcrumbs">
+	<div class="container">
+		<div class="d-flex justify-content-between align-items-center">
+			<h2>Prediction Result</h2>
+			<ol>
+				<li><a href="{% url 'main:home' %}">Home</a></li>
+				<li>Result</li>
+			</ol>
+		</div>
+	</div>
+</section>
+<section id="predict" class="predict">
+	<div class="container">
+		<div class="section-title">
+			<h2>Predict</h2>
+			<p>According to our analysis you should do {{output}}.</p>
+		</div>
+		<div class="container text-center">
+			{% if output == "Engineering" %}<lottie-player
+				src="https://assets3.lottiefiles.com/packages/lf20_f8arnpdn.json"
+				background="transparent"
+				speed="1"
+				class="col-4 mx-auto"
+				loop
+				autoplay
+			></lottie-player
+			>{% elif output == "Doctor" %}<lottie-player
+				src="https://assets3.lottiefiles.com/packages/lf20_l13zwx3i.json"
+				background="transparent"
+				speed="1"
+				class="col-6 mx-auto"
+				loop
+				autoplay
+			></lottie-player
+			>{% elif output == "Fashion Designer" %}<lottie-player
+				src="https://assets4.lottiefiles.com/packages/lf20_gn0tojcq.json"
+				background="transparent"
+				speed="1"
+				class="col-6 mx-auto"
+				loop
+				autoplay
+			></lottie-player
+			>{% elif output == "Lawyer" %}<lottie-player
+				src="https://assets6.lottiefiles.com/packages/lf20_rdkrsaca.json"
+				background="transparent"
+				speed="1"
+				class="col-6 mx-auto"
+				loop
+				autoplay
+			></lottie-player
+			>{% elif output == "UPSC" %}<lottie-player
+				src="https://assets8.lottiefiles.com/packages/lf20_vq5wzcvx.json"
+				background="transparent"
+				speed="1"
+				class="col-4 mx-auto"
+				loop
+				autoplay
+			></lottie-player
+			>{% endif %}
+		</div>
+	</div>
+</section>
+{% endblock body %}
